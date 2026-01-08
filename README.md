@@ -32,8 +32,6 @@ This project is an interactive Tableau dashboard designed to analyze car sales p
 - Automatic transmission sales dominate
 - Volume-driven growth observed in recent year
 
-## 📸 Dashboard Preview
-(Add dashboard image here)
 
 ## 👤 Author
 **Soham Kathalay**
